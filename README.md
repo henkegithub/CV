@@ -1,3 +1,5 @@
+Hello World
+
 # CV template for a junior web developer
 
 ![cv_template](images/cvTemplateScreenshot.png)
